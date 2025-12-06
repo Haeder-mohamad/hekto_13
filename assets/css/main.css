@@ -109,6 +109,7 @@ ul {
     background-color: white;
     padding: 0px 0px;
     margin-top: 45px;
+    position: fixed;
 }
 
 
@@ -155,3 +156,16 @@ ul {
     padding: 0px 0px;
     background-color: #FB2E86;
 }
+
+
+body {
+    height: 6000px;
+}
+
+
+.list_header a:hover{
+    color: red;
+}
+
+
+
