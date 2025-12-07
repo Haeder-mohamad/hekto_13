@@ -110,6 +110,7 @@ ul {
     padding: 0px 0px;
     margin-top: 45px;
     position: fixed;
+    width: 100%;
 }
 
 
@@ -118,8 +119,7 @@ ul {
     justify-content: space-between;
     margin: 0px 200px;
     align-items: center;
-    height: 40px;
-    width: 1200px;
+    
 }
 
 
